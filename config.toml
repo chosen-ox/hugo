@@ -77,7 +77,7 @@ hasCJKLanguage = true
 
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
+    name = "回到主页"
     url = "/"
       weight = 1
 
