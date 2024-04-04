@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://omphd.cn"
+title = "运营博途"
+author = "Vincent"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
