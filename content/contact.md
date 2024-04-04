@@ -1,7 +1,8 @@
 ---
-title: 'Contact'
+title: '联系我们'
 ---
+Wechat: MyWechatzzz
 
-To contact us, please fill out the form below.
+xhs: [去码头搞点运筹](https://www.xiaohongshu.com/user/profile/601f87c8000000000101c697?xhsshare=CopyLink&appuid=657d3544000000003d02a1bc&apptime=1712248442)
 
-{{< form >}}
+
