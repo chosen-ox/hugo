@@ -33,7 +33,7 @@ hasCJKLanguage = true
 
   [params.site]
     name = "运营博途"
-    
+
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
@@ -70,8 +70,8 @@ hasCJKLanguage = true
     weight = 3
 
   [[menu.main]]
-    identifier = "联系我们"
-    name = "Contact"
+    identifier = "contact"
+    name = "联系我们"
     url = "/contact/"
     weight = 4
 
