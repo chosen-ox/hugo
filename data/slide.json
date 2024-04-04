@@ -1,12 +1,10 @@
 [
   {
     "title": "运营博途",
-    "description": "擘科研未来，助学术飞翔",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
+    "title": "擘科研未来，助学术飞翔",
     "image": "img/slide/slide02.jpg",
-    "color": "text-black"
   }
 ]
