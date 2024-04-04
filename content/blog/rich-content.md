@@ -22,7 +22,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Shortcode
 
-{{< twitter user= "Lebronvvincent" id="1533671397771255808" >}}
+{{< tweet user= "Lebronvvincent" id="1533671397771255808" >}}
 
 <br>
 
