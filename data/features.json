@@ -1,7 +1,7 @@
 [
   {
     "title": "信息丰富",
-    "description": "弥补信息差",
+    "description": "构建CM.OR.DS的信息数据库,弥补信息差",
     "icon": "icon-desktop_windows"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "title": "个性化服务",
-    "description": "提供一对一、多对一的全英文模拟面试，提高学生竞争力",
+    "description": "提供一对一、多对一的模拟面试，提高学生竞争力",
     "icon": "icon-access_time"
   }
 ]
