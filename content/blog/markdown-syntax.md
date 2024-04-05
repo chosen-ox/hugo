@@ -13,4 +13,4 @@ categories = [
 ]
 +++
 
-![cuhk](img/offers/cuhk.png)
+![cuhk](/img/offers/cuhk.png)
