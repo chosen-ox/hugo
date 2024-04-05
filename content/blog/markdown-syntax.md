@@ -3,6 +3,7 @@ author = "Vincent"
 title = "所获战绩"
 date = "2024-04-05"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+image = "img/offers/stanford.png"
 tags = [
     "markdown",
     "css",
@@ -14,7 +15,7 @@ categories = [
 +++
 
 ## Hong Kong
-![cuhk](/img/offers/ucl.cuhk)
+![cuhk](/img/offers/cuhk.png)
 
 ## United Kingdom
 ![ucl](/img/offers/ucl.png)
