@@ -1,18 +1,17 @@
 [
   {
-    "title": "简捷",
-    "description": "All the bare necessities are there.",
+    "title": "信息丰富",
+    "description": "弥补信息差",
     "icon": "icon-desktop_windows"
   },
   {
-    "title": "多元",
-    "description": "Light weight and fast loading speed.",
+    "title": "团队多元",
+    "description": "英美港新名校的多名在读MS/PHD",
     "icon": "icon-lightbulb_outline"
   },
   {
-    "title": "高效",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "icon-access_time",
-    "link": "https://github.com/opera7133/tella"
+    "title": "个性化服务",
+    "description": "提供一对一、多对一的全英文模拟面试，提高学生竞争力",
+    "icon": "icon-access_time"
   }
 ]
