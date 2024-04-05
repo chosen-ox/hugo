@@ -11,5 +11,6 @@ tags = [
 categories = [
     "申请案例",
 ]
-test
-<!-- ![cuhk](../../static/img/offers/cuhk.png) -->
++++
+
+![cuhk](../../static/img/offers/cuhk.png)
