@@ -7,26 +7,26 @@
   {
     "title": "服务内容",
     "description": "我们提供咨询服务，助力客户实现科研梦想和职业规划 ",
-    "icon": "icon-design_services_outlined"
+    "icon": "icon-design_services"
   },
   {
     "title": "团队理念",
     "description": "我们致力于为每位有志于博士学习的人提供开放和包容的支持",
-    "icon": "icon-emoji_people_outlined"
+    "icon": "icon-emoji_people"
   },
   {
     "title": "定制化咨询服务",
-    "description": "为学生指点迷津，确保每位咨询者能够在学术旅程中明确方向、优化策略；提供模拟面试，提高学生竞争力",
+    "description": "确保每位咨询者能够在学术旅程中明确方向、优化策略；提供模拟面试，提高学生竞争力",
     "icon": "icon-lightbulb_outline"
   },
   {
     "title": "小而精的服务范围",
     "description": "将传统意义上的中介关于Ph.D.选校定位由学校和项目的维度精细到具体的系和老师的维度",
-    "icon": "icon-verified_outlined"
+    "icon": "icon-verified"
   },
   {
     "title": "信息如流，真正“大数据",
     "description": "整理了全面的专业领域的信息数据,以数据驱动的形式为申请者进行更好的最有决策。",
-    "icon": "icon-equalizer_outlined"
+    "icon": "icon-equalizer"
   }
 ]
