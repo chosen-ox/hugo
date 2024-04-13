@@ -58,9 +58,9 @@ hasCJKLanguage = true
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
+    identifier = "cases"
     name = "服务案例"
-    url = "/blog/"
+    url = "/case/"
     weight = 2
 
   [[menu.main]]
