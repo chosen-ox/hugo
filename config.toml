@@ -19,7 +19,7 @@ hasCJKLanguage = true
 [params]
 
 
-  mainSections = ['about']
+  mainSections = ['posts']
 
   googleFonts = true
 
