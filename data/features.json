@@ -2,12 +2,12 @@
   {
     "title": "我们是谁？",
     "description": "我们是来自英美港新名校Top5工学院&Top30商学院的在读MS/PHD",
-    "icon": "icon-supervised_user_circle"
+    "icon": "fa-solid fa-heart"
   },
   {
     "title": "服务内容",
     "description": "我们提供咨询服务，助力客户实现科研梦想和职业规划 ",
-    "icon": "icon-design_services"
+    "icon": "design_services"
   },
   {
     "title": "团队理念",
