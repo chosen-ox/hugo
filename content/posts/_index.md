@@ -1,4 +1,0 @@
-+++
-author = "Vincent"
-tags = ["index"]
-+++
