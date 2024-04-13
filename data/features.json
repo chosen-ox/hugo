@@ -1,14 +1,20 @@
 [
   {
-    "title": "信息丰富",
-    "description": "构建CM.OR.DS的信息数据库,弥补信息差",
+    "title": "我们是谁？",
+    "description": "我们是来自英美港新名校Top5工学院&Top30商学院的在读MS/PHD",
     "icon": "icon-desktop_windows"
   },
   {
-    "title": "团队多元",
-    "description": "英美港新名校的多名在读MS/PHD",
-    "icon": "icon-lightbulb_outline"
+    "title": "服务内容",
+    "description": "我们提供定制化咨询服务，为学生指点迷津，确保每位咨询者能够在学术旅程中明确方向、优化策略，全年无休地支持他们的科研梦想和职业规划 ",
+    "icon": "icon-lightbulb_outline",
+    "slug": "case"
   },
+  {
+    "title": "个性化服务",
+    "description": "提供一对一、多对一的模拟面试，提高学生竞争力",
+    "icon": "icon-access_time"
+  }
   {
     "title": "个性化服务",
     "description": "提供一对一、多对一的模拟面试，提高学生竞争力",

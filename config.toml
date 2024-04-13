@@ -19,7 +19,7 @@ hasCJKLanguage = true
 [params]
 
 
-  mainSections = ['case']
+  mainSections = ['case', 'posts']
 
   googleFonts = true
 
@@ -62,12 +62,6 @@ hasCJKLanguage = true
     name = "服务案例"
     url = "/case/"
     weight = 2
-
-    [[menu.main]]
-    identifier = "posts"
-    name = "测试"
-    url = "/posts/"
-    weight = 3
     
 
   [[menu.main]]
