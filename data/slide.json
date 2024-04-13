@@ -1,7 +1,8 @@
 [
   {
     "title": "运营博途",
-    "image": "img/slide/surface.jpg"
+    "image": "img/slide/surface.jpg",
+    "size": 128
   },
   {
     "title": "擘科研未来，助学术飞翔",
