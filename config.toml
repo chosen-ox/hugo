@@ -58,7 +58,7 @@ hasCJKLanguage = true
     weight = 1
 
   [[menu.main]]
-    identifier = "cases"
+    identifier = "case"
     name = "服务案例"
     url = "/case/"
     weight = 2
