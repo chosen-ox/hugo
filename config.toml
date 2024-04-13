@@ -18,14 +18,14 @@ hasCJKLanguage = true
 
 [params]
 
-  showBlog = false
-  mainSections = ['blog']
+  showBlog = true
+  mainSections = ['blog', 'products', 'posts]
 
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/logo.png"
+    alt = "OMPHD Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -83,6 +83,6 @@ hasCJKLanguage = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/chosen-ox/hugo"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
