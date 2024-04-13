@@ -52,9 +52,9 @@ hasCJKLanguage = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
+    identifier = "products1"
     name = "服务内容"
-    url = "/products1/"
+    url = "/products/"
     weight = 1
 
   [[menu.main]]
