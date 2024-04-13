@@ -2,17 +2,17 @@
   {
     "title": "我们是谁？",
     "description": "我们是来自英美港新名校Top5工学院&Top30商学院的在读MS/PHD",
-    "icon": "fa-solid fa-heart"
+    "icon": "fa-solid fa-people-group"
   },
   {
     "title": "服务内容",
     "description": "我们提供咨询服务，助力客户实现科研梦想和职业规划 ",
-    "icon": "design_services"
+    "icon": "fa-regular fa-pen-to-square"
   },
   {
     "title": "团队理念",
     "description": "我们致力于为每位有志于博士学习的人提供开放和包容的支持",
-    "icon": "icon-emoji_people"
+    "icon": "fa-solid fa-hand-holding-heart"
   },
   {
     "title": "定制化咨询服务",
@@ -22,11 +22,11 @@
   {
     "title": "小而精的服务范围",
     "description": "将传统意义上的中介关于Ph.D.选校定位由学校和项目的维度精细到具体的系和老师的维度",
-    "icon": "icon-verified"
+    "icon": "fa-solid fa-circle-check"
   },
   {
     "title": "信息如流，真正“大数据",
     "description": "整理了全面的专业领域的信息数据,以数据驱动的形式为申请者进行更好的最有决策。",
-    "icon": "fa-duotone fa-chart-simple"
+    "icon": "fa-solid fa-chart-column"
   }
 ]
