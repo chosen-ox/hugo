@@ -3,15 +3,21 @@ author = "Vincent"
 title = "运营博途核心成员"
 date = "2024-04-07"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-image = "img/blog/phd.png"
+image = "img/slide/slide01.jpg"
 categories = [
     "信息分享",
 ]
 +++
-## Vincent 
+## Andrew Lin
 
 ## Bob Zhang
 
-## Leon L
+## Noel B
 
-## Andrew Lin
+## Vincent 
+
+
+
+
+
+
