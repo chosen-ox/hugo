@@ -19,7 +19,7 @@ hasCJKLanguage = true
 [params]
 
   showBlog=false
-  mainSections = ['blog']
+  mainSections = ['blog', 'guide', 'team']
 
   googleFonts = true
 
@@ -63,6 +63,17 @@ hasCJKLanguage = true
     url = "/blog/"
     weight = 2
     
+  [[menu.main]]
+    identifier = "guide"
+    name = "博士申请指南"
+    url = "/guide/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "team"
+    name = "团队成员"
+    url = "/team/"
+    weight = 2
 
   [[menu.main]]
     identifier = "about"
