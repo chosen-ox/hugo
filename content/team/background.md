@@ -1,7 +1,7 @@
 +++
 author = "Vincent"
 title = "导师名单"
-date = "2024*04*08"
+date = "2024-04-08"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 image = "img/team/bg1.png"
 categories = [
@@ -15,10 +15,10 @@ categories = [
 1. Denzel: Ph.D. in Georgia Tech; MSc in Statistics, Oxford University
 
 * Research Experiences: Deep Learning, Statistical Signal Processing
-* Research Focus: Generative Model, Conformal Statistics, Point Processes, Spatial*temporal Analysis
+* Research Focus: Generative Model, Conformal Statistics, Point Processes, Spatial-temporal Analysis
 2. Richard: Ph.D. in Applied Math and Statistics, JHU
 * Previous Research Interests: Reinforcement Learning Theory, Optimization Theory and Algorithms, Trustworthy 
-Machine Learning (Causal Inference and Privacy), Low*rank Tenor Model Prediction
+Machine Learning (Causal Inference and Privacy), Low-rank Tenor Model Prediction
 * Current Research Interests: Causal Machine Learning, Optimal Transport, Sequential Decision Making
 3. Jeremy: MS in Data Science, Harvard University; BA in CS & Statistics, UC Berkeley
 * Research Experience: LLM Reasoning, Efficient Inference & Training, Transfer Learning
@@ -33,14 +33,14 @@ Computational Neural Science
 * Research Experiences: Empirical Modelling, Quant Marketing, Machine Learning
 * Current Research Focus: Application of Large Language Model in Business Scenario, Applied Econometrics
 7. Chloe: PhD in Decision Science, INSEAD
-* Research Experiences: Machine Learning, NLP/LLMs, Reinforcement Learning, Multi*armed Bandit
-* Current Research Focus: ML/AI, Reinforcement Learning, Multi*armed Bandit, Information Design
+* Research Experiences: Machine Learning, NLP/LLMs, Reinforcement Learning, Multi-armed Bandit
+* Current Research Focus: ML/AI, Reinforcement Learning, Multi-armed Bandit, Information Design
 8. Alex: Ph.D. in Management Science and Engineering, Stanford University;
 * Research Experiences: Computational Optimization, High Dimensional Statistics, Genomics
-* Current Research Focus: Development and Operations of AI*enabled Products
+* Current Research Focus: Development and Operations of AI-enabled Products
 9. Eric: Ph.D. in Industrial Engineering and Operations Research, Columbia University
 * Research Experience: Scheduling, Revenue Management, First Order Methods in Large Scale Optimization
-* Current interests: Data*driven Decision Making, Optimization Under Uncertainty, Statistical Learning, 
+* Current interests: Data-driven Decision Making, Optimization Under Uncertainty, Statistical Learning, 
 Prescriptive Analytics
 10. Andrew: Ph.D. in CUHK Business School 
 * Research Experience: Online learning, Applied Econometrics
@@ -50,7 +50,7 @@ Estimation, Mechanism Design
 * Research Experiences: Operations Management, Energy Economics, Reinforcement Learning
 * Research Topics: Supply Chain Management, Online Decision Making
 12. Noel: Ph.D. in University of Washington Foster Business School 
-* Research Experiences: Operation*Marketing Interface, Revenue Management, Analytical Modeling
+* Research Experiences: Operation-Marketing Interface, Revenue Management, Analytical Modeling
 * Research Topics: Frontier OM (blockchain, DEI), Sustainable OM, Contract Design
 13. Vincent: Ph.D. in Computer Science, Virginia Tech
 * Research Interests: Cloud Computing, MLSys, LLM; Architecture
