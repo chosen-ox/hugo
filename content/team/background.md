@@ -9,5 +9,5 @@ categories = [
 ]
 +++
 运营博途导师均是英美港新名校在读PHD，咨询经验丰富，了解各国申请情况。
-![stanford](/img/team/bg1.png)
-![stanford](/img/team/bg2.png)
+![stanford](/img/team/bg3.png)
+<!-- ![stanford](/img/team/bg2.png) -->
