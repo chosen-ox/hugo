@@ -3,7 +3,7 @@ author = "Vincent"
 title = "导师名单"
 date = "2024-04-08"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-image = "img/team/bg3.png"
+image = "img/team/bg4.png"
 categories = [
     "信息分享",
 ]
