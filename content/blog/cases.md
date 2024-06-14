@@ -17,13 +17,8 @@ categories = [
 ## Hong Kong
 ![cuhk](/img/offers/cuhk.png)
 
-## United Kingdom
-![ucl](/img/offers/ucl.png)
-
 ## United States
 
 ![stanford](/img/offers/stanford.png)
 ![stanford](/img/offers/chicago.png)
-![stanford](/img/offers/uci.png)
 ![stanford](/img/offers/minesota.png)
-![stanford](/img/offers/uconn.png)
